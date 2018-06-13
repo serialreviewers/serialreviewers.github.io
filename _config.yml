@@ -1,0 +1,7 @@
+# Site settings
+title: Serial Reviewers
+description: Couple of friends reviewing tv series and movies
+keywords: TvSeries, Blogging, Fun, Movies
+author: SerialReviewers
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "serialreviewers.github.io" # the base hostname & protocol for your site
